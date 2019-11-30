@@ -1,3 +1,3 @@
 This is test text.
 hello world.
-bug fix B
+This is bug fix.
